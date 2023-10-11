@@ -1,0 +1,28 @@
+[
+    {
+        "domain": "www.bing.com",
+        "expirationDate": 1697063379,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "ai_session",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "+stGDPT5apFZZv09OyuNRq|1697061579511|1697061579511"
+    },
+    {
+        "domain": "www.bing.com",
+        "expirationDate": 1728597579.459271,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "d6f67a1b-e74f-4bad-9505-450849e3b3ac"
+    }
+]
